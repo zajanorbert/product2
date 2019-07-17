@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+}
+button{
+    background: lawngreen;
+    padding: 2.5%;
+    border-radius: 33%;
+}
