@@ -12,7 +12,7 @@
 <c:forEach var="g" items="${greetings}">
     <p><c:out value="${g.lang}"/>: <c:out value="${g.text}"/><p>
 </c:forEach>
-<a href="index.html">Go back to the <em>index</em> page.</a>
+<a href="index.jsp">Go back to the <em>index</em> page.</a>
 <br>
 <a href="greeting">Click here to list the <em>greetings</em> using <strong>JSP</strong>!</a
 </body>
